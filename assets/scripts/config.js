@@ -2,7 +2,7 @@
 
 const config = {
   apiOrigins: {
-    production: 'https://whispering-tor-36273.herokuapp.com'
+    production: 'https://stormy-mesa-42374.herokuapp.com'
   }
 }
 
