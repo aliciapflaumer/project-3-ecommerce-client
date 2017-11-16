@@ -2,7 +2,7 @@
 
 const config = {
   apiOrigins: {
-    production: 'https://stormy-mesa-42374.herokuapp.com'
+    production: 'https://nozama-ecommerce.herokuapp.com'
   }
 }
 
